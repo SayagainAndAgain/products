@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Milk"
+    },
+    {
+      "id": 2,
+      "title": "Water"
+    }
+  ]
+}
